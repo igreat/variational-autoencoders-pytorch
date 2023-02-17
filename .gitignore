@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+wandb
+data/*
+vae_images/*
+.DS_Store
